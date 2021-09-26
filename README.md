@@ -1,2 +1,2 @@
 # DataScience
- All my projects about Data Science
+ All archives created about Data Science to enter the concepts.
